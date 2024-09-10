@@ -37,7 +37,7 @@ packaging==23.2
 pandas==2.1.1
 Pillow==10.0.1
 protobuf==4.24.4
-pyarrow==13.0.0
+pyarrow
 pydeck==0.8.1b0
 Pygments==2.16.1
 pymdown-extensions==10.3
@@ -82,5 +82,4 @@ urllib3==2.0.6
 validators==0.22.0
 watchdog==3.0.0
 zipp==3.17.0
-pyarrow==13.0.0 --only-binary :all:
 cmake
